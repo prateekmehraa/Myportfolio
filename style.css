@@ -1,0 +1,25 @@
+*{padding: 0;
+    margin: 0;
+    background-color: blanchedalmond;
+}
+header,#top,#img,#to{
+    background-color: #dfa878;
+}
+button,#one{
+    background-color: #cee6f3;
+    color: #6c3428;
+}
+h3{
+    background-color: #ba704f;
+}
+button{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+}
+h1,h2,#img{
+    text-align: center;
+}
+#to{
+    margin-left: 50px;
+}
